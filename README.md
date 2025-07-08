@@ -10,4 +10,18 @@ Aplikasi Smart Seat Assigner adalah sebuah sistem manajemen kursi otomatis yang 
 4.	Emy Yuliastini (068)
 5.	Lalu danoval anshori (087)
 
-## Fitur
+## Fitur And Review
+# 1
+<img width="628" height="1024" alt="Image" src="https://github.com/user-attachments/assets/3027844b-e1da-41ba-a07c-6d2092852c52" />
+
+# 2
+<img width="626" height="1029" alt="Image" src="https://github.com/user-attachments/assets/d14c06b3-6235-4d33-97b7-242a1e74b7c2" />
+
+# 3
+<img width="628" height="1025" alt="Image" src="https://github.com/user-attachments/assets/badb5c4e-a36b-45c9-b5af-122d93f1c1bd" />
+
+# 4
+<img width="626" height="1028" alt="Image" src="https://github.com/user-attachments/assets/29e9347b-f173-477e-9e94-645a12204753" />
+
+# 5
+<img width="627" height="1026" alt="Image" src="https://github.com/user-attachments/assets/18d0d7f0-56b9-4dfc-a273-6662b79fca42" />
